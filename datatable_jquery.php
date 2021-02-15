@@ -38,19 +38,9 @@
         font-family: 'Mitr', sans-serif;
     }
 
-    .td_date {
-        font-size: 100%;
-    }
-
     td {
         vertical-align: middle;
     }
-
-    input {
-        margin-top: 4%;
-    }
-
-    table {}
 
 </style>
     <script>
